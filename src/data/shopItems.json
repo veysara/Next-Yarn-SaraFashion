@@ -1,0 +1,22 @@
+[
+  { 
+    "title": "A modern wedding dress (2500$)", 
+    "description": "A romantic off-the-shoulder neckline and a sweetheart corset.",
+    "image": "/images/pic9.jpg"
+  },
+  {  
+    "title": "A modern wedding dress (2800$)", 
+    "description": "A romantic off-the-shoulder neckline and a sweetheart corset.",
+    "image": "/images/pic5.jpg"
+  },
+  { 
+    "title": "A modern wedding dress (2200$)", 
+    "description": "A romantic off-the-shoulder neckline and a sweetheart corset.",
+    "image": "/images/pic13.jpg" 
+  },
+  { 
+    "title": "A modern wedding dress (2200$)", 
+    "description": "A romantic off-the-shoulder neckline and a sweetheart corset.",
+    "image": "/images/pic17.jpg" 
+  }
+]

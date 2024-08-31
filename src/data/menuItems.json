@@ -1,0 +1,17 @@
+[
+  { 
+    "title": "Home", 
+    "href": "/",
+    "icon": "FaHome"
+  },
+  { 
+    "title": "Shop", 
+    "href": "shop",
+    "icon": "FaHome"
+  },
+  { 
+    "title": "Our Product", 
+    "href": "our_product",
+    "icon": "FaHome"
+  }
+]
